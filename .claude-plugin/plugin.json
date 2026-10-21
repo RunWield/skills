@@ -1,0 +1,5 @@
+{
+    "name": "runwield-skills",
+    "description": "RunWield skills for planning, guidance, and code review.",
+    "skills": ["./guide", "./ideator", "./review"]
+}
